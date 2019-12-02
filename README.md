@@ -1,1 +1,1 @@
-# jenkins-installation-kubernetes
+# Guide for installation of Jenkins on Kubernetes Cluster
